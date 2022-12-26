@@ -1,3 +1,5 @@
+For Deployment, this frontend of this project was moved over from The-MERN-Stack-Course-Tutorial at https://github.com/EfrainAD/The-MERN-Stack-Course-Tutorial
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
